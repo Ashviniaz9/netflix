@@ -1,0 +1,19 @@
+{
+  "folders": [
+	{
+		"path": "..\\html"
+	},
+	{
+		"path": "..\\random quote generator"
+	},
+	{
+		"path": "..\\the drum kit"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "netflix"
+  }
+}
