@@ -222,6 +222,7 @@ img {
   flex-direction: column;
   flex-basis: 40%;
   align-items: center;
+  list-style-type: none;
 }
 .questions li {
   padding: 20px 30px;
@@ -276,8 +277,10 @@ footer a {
 .footer .footer-clos {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-gap: 2rem;
+  grid-gap: 1em;
+
+  list-style: none;
 }
 .footer li {
-  line-height: 2, 4;
+  line-height: 2, 3;
 }
